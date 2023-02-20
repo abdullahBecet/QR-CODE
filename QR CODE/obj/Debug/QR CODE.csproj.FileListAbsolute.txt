@@ -1,0 +1,6 @@
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QR CODE.csprojAssemblyReference.cache
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QR_CODE.Form1.resources
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QR_CODE.Properties.Resources.resources
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QR CODE.csproj.GenerateResource.cache
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QR CODE.csproj.CoreCompileInputs.cache
+C:\Users\baydomgida\Desktop\QR CODE\QR CODE\obj\Debug\QrCodeReader.Form2.resources
